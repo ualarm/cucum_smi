@@ -30,10 +30,10 @@
 1. How would you improve the customer experience of the JUST EAT website? 
 
 
-Search criteria only allow postal code, and no message/hint for valid postal code. 
+   Search criteria only allow postal code, and no message/hint for valid postal code. 
 
 
-To improve customer experience, search should allow address in addition to postal code. For invalid address/postal code, message should provide valid postal code format. 
+   To improve customer experience, search should allow address in addition to postal code. For invalid address/postal code, message should provide valid postal code format. 
 
 
 
@@ -41,21 +41,57 @@ To improve customer experience, search should allow address in addition to posta
 
 
 {
+
+
   "first name": "shan",
+
+
   "last name": "mi",
+
+
   "hobbies": ["excercise", "chess", "travel"],
+
+
   "education": {
+
+
      "entry1": {
+
+
         "university name": "university of waterloo",
-	"major": "computer science",
-	"graduation year": "2000",
-	"degree": "BMath"
+
+
+	      "major": "computer science",
+
+
+	      "graduation year": "2000",
+
+
+	      "degree": "BMath"
+
+
      },
+
+
      "entry2": {
+
+
         "university name": "michigan technological university",
-	"major": "materials science",
-	"graduation year": "1997",
-	"degree": "MS"
+
+
+	      "major": "materials science",
+	
+      
+         "graduation year": "1997",
+	
+   
+         "degree": "MS"
+
+
      }
+
+
   }
+
+  
 }
