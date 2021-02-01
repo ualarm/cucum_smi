@@ -40,58 +40,40 @@
 1. Please describe yourself using JSON. 
 
 
-{
+   {
 
+      "first name": "shan",
 
-  "first name": "shan",
+      "last name": "mi",
 
+      "hobbies": ["excercise", "chess", "travel"],
 
-  "last name": "mi",
+      "education": {
 
+         "entry1": {
 
-  "hobbies": ["excercise", "chess", "travel"],
+            "university name": "university of waterloo",
 
+            "major": "computer science",
 
-  "education": {
+            "graduation year": "2000",
 
+            "degree": "BMath"
 
-     "entry1": {
+         },
 
+         "entry2": {
 
-        "university name": "university of waterloo",
+            "university name": "michigan technological university",
 
-
-	      "major": "computer science",
-
-
-	      "graduation year": "2000",
-
-
-	      "degree": "BMath"
-
-
-     },
-
-
-     "entry2": {
-
-
-        "university name": "michigan technological university",
-
-
-	      "major": "materials science",
+            "major": "materials science",
 	
+            "graduation year": "1997",
+	
+            "degree": "MS"
+
+         }
       
-         "graduation year": "1997",
-	
-   
-         "degree": "MS"
+      }
 
-
-     }
-
-
-  }
-
-  
-}
+   }
