@@ -1,5 +1,5 @@
 # Automated test example in Java with Cucumber and Selenium WebDriver #
-change by smi
+change by main
 This project is an example of UI automated functional test for Google home page and search using Selenium and Cucumber.
 change by main
 Test scenarios are described in the feature files located here ./src/test/resources/com/automatedtest/sample.
